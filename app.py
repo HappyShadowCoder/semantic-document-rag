@@ -81,6 +81,7 @@ st.markdown("Upload a PDF and ask anything about it.")
 st.divider()
 
 with st.sidebar:
+    st.caption("Version 1.0.0")
     st.markdown("### ⚙️ Setup")
 
     with st.spinner("Detecting LLM..."):
