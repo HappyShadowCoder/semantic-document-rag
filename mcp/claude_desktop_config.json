@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "semantic-document-rag": {
+      "command": "python3",
+      "args": [
+        "/Users/swastiek/Documents/Devlopment/AI Projects/semantic-document-rag/mcp/server.py"
+      ],
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
+
